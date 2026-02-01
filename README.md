@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently pursuing my Bachelor's In Aerospace Engineering and looking to collaborate on projects which require skills like matlab,python,solidworks,ansys etc.<br>I'm looking for help in creating a good portfolio website (similar to virgin galactic)<br>I'm currently learning about AI and ML in the context of aeronautical devices and control systems.<br>Fun fact: I Saw ISS on a random Tuesday and wanted to pursue aerospace engineering.
+I'm Currently pursuing my Bachelor's In Aerospace Engineering and looking to collaborate on projects which require skills like matlab,python,solidworks,ansys etc.<br>I'm currently learning about AI and ML in the context of aeronautical devices and control systems.<br>Fun fact: I Saw ISS on a random Tuesday and wanted to pursue aerospace engineering.
 
 
 ## 🌐 Socials:
